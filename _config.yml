@@ -169,9 +169,9 @@ beaudar:
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
     repo: telegeam/blog-comments
-    repo-id: R_kgDOK1bmcg
+    repo-id: R_kgDOK3N9hw
     category: Announcements
-    category-id: DIC_kwDOK1bmcs4CblHj
+    category-id: DIC_kwDOK3N9h84CblZg
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
