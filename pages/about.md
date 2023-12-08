@@ -7,12 +7,12 @@ comments: true
 menu: 关于
 permalink: /about/
 ---
-关注[「TG频道」](https://t.me/zhongwen_zn)可第一时间获得节点更新消息，还可解锁神秘高速节点！
+关注[「TG频道」](https://t.me/zhongwen_zn) 可第一时间获得节点更新消息，还可解锁神秘高速节点！
 
 覆盖美国、新加坡、加拿大、香港、欧洲、韩国、日本等多个区域。
 
 
-## 联系
+<!--## 联系
 
 <ul>
 {% for website in site.data.social %}
@@ -22,7 +22,7 @@ permalink: /about/
 <!--<li>
 微信公众号：<br />
 <img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ site.url }}/assets/images/qrcode.jpg" alt="免费节点 free node" />
-</li>-->
+</li>--
 {% endif %}
 </ul>
 
