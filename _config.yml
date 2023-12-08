@@ -73,9 +73,9 @@ navs:
     label:  免费节点
 
   -
-    href: /1/
+    href: /a/
     label: 客户端
-
+    mobile-hidden: true
    #-
   #   href: /archives/
    #  label:  归档
