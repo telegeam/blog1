@@ -6,37 +6,37 @@ description: Maven 复制下方的v2ray/Clash订阅链接，在客户端添加�
 keywords: Clash,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,v2ray,节点,苹果,订阅链
 ---
 
-关注「TG频道」可第一时间获得节点更新消息，还可解锁神秘高速节点！
+关注[「TG频道」](https://t.me/+Nz3-ybO4nwMzMDU1) 可第一时间获得节点更新消息，还可解锁神秘高速节点！
 
 本次更新共50个可用节点，最高速度17.4M/S。
 
 覆盖美国、新加坡、加拿大、香港、欧洲、韩国、日本等多个区域。
 
 复制下方的v2ray/Clash订阅链接，在客户端添加即可正常使用。
-高速机场推荐1【快猫】
+高速机场推荐1[【快猫】](https://home.kuaimao.io/#/register?code=TTaIXhNs)
 季付送小火箭，流量多，优惠多
 
 而且不限登录设备数，解锁奈飞
 
-注册地址：【快猫官网（点击注册）】
+注册地址：[【快猫官网（点击注册）】](https://home.kuaimao.io/#/register?code=TTaIXhNs)
 
-高速机场推荐2【机场巴巴】
+高速机场推荐2[【机场巴巴】](https://www.ckcloud.xyz/#/register?code=VWKEGkwW)
 注册可试用，支持5台设备
 
 解锁奈飞迪士尼
 
-注册地址：【机场巴巴官网（点击注册）】
+注册地址：[【机场巴巴官网（点击注册）】](https://www.ckcloud.xyz/#/register?code=VWKEGkwW)
 
  
 
 订阅链接
 v2ray订阅链接:
 
-https://v2rayshare.com/wp-content/uploads/2023/12/20231208.txt
+https://telegeam.github.io/blog1/a/2023/12/20231208.txt
 
 clash订阅链接：
 
-https://v2rayshare.com/wp-content/uploads/2023/12/20231208.yaml
+https://telegeam.github.io/blog1/a/2023/12/20231208.yaml
 
 温馨提示：
 
@@ -46,4 +46,4 @@ https://v2rayshare.com/wp-content/uploads/2023/12/20231208.yaml
 
 如果某个网址无法代理访问，可切换到全局代理模式，一般可解决。
 
-如需付费机场节点请前往「 qingyun.world 」 ，博主倾力推荐，三年稳定运营，全球高速节点8k无压力！
+如需付费机场节点请前往[「 qingyun.world 」](https://a1.qingyun.site/#/register?code=3tlGQbU0) ，博主倾力推荐，三年稳定运营，全球高速节点8k无压力！
