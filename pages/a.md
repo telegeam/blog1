@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 1
+title: a
 description: 客户端
 keywords: 客户端
 comments: true
 menu: 客户端
-permalink: /1/
+permalink: /a/
 
 #应用名称	版本号	应用系统	官方下载
 
