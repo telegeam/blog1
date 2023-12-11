@@ -2,7 +2,10 @@
 
   {% if site.comments_provider != 'disqus' and site.lazy_load_disqus and site.disqus and site.disqus.username %}
     <a href="#" class="show_disqus_comment" onclick="return false;">Show Disqus Comments</a>
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1530351503997410"
+     crossorigin="anonymous"></script>
     <div id="disqus_thread"></div>
+	
     <script>
     var disqus_config = function () {
         this.page.url = '{{ site.url }}{{ page.url }}';
