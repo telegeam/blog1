@@ -28,7 +28,7 @@ components:
     # 不蒜子访问统计
     busuanzi:
         enabled: true
-        start_date: 2022-12-12
+        start_date: 2023-12-12
     # My Popular Repositories
     side_bar_repo:
         enabled: true
@@ -188,11 +188,11 @@ simple_jekyll_search:
 #      Google      #
 # ---------------- #
 google:
-    analytics_id: # G-20FLEG5Q2W
+    analytics_id:  G-97R1H1JT38
     adsense:
-        enabled: false
-        footer: false
-        sidebar: false
-        sidebar-detail: false
-        content_header: false
-        content_footer: false
+        enabled: true 
+        footer: true 
+        sidebar: true 
+        sidebar-detail: true 
+        content_header: true 
+        content_footer: true 
