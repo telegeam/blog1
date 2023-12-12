@@ -11,7 +11,7 @@ keywords: 高速免费节点,SSR,V2ray,Clash,Shadowrocket,
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2015
+since: 2023
 # 源码仓库，请替换成自己的
 repository: telegeam/telegeam.github.io
 # 对 css 和 js 资源的 cdn 加速配置
@@ -27,8 +27,8 @@ components:
         hide-platforms: qq,facebook
     # 不蒜子访问统计
     busuanzi:
-        enabled: false
-        start_date: 2020-05-03
+        enabled: true
+        start_date: 2022-12-12
     # My Popular Repositories
     side_bar_repo:
         enabled: true
@@ -173,7 +173,7 @@ giscus:
     category: Announcements
     category-id: DIC_kwDOK3N9h84CblZg
 # 在使用其它评论组件时可点击显示 Disqus
-lazy_load_disqus : true
+lazy_load_disqus : false
 
 # ---------------- #
 #      Search      #
