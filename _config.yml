@@ -106,7 +106,7 @@ navs:
 # ---------------- #
 #       RSS        #
 # ---------------- #
-subscribe_rss: /
+subscribe_rss: /feed.xml
 
 # ---------------- #
 #      Jekyll      #
@@ -189,7 +189,7 @@ simple_jekyll_search:
 # ---------------- #
 google:
     analytics_id:  G-97R1H1JT38
-    adsense:
+    adsense: pub-1530351503997410
         enabled: true 
         footer: true 
         sidebar: true 
