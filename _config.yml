@@ -13,7 +13,7 @@ encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2023
 # 源码仓库，请替换成自己的
-repository: telegeam/telegeam.github.io
+#repository: telegeam/telegeam.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -40,7 +40,7 @@ components:
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
         enabled: true
-        image_alt: 免费节点 free node
+        image_alt: 免费节点 free clash v2ray node
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
     wiki:
         view: cate
@@ -57,10 +57,10 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: 免费节点 free node
+author: 免费节点 free clash v2ray node
 organization: 
 organization_url: 
-github_username: 免费节点 free node
+github_username: 免费节点 free clash v2ray node
 location: # Wuhan, China
 email: #chumpma@gmail.com
 
@@ -188,7 +188,7 @@ simple_jekyll_search:
 # ---------------- #
 google:
     analytics_id:  G-97R1H1JT38
-    adsense:
+    adsense: 
         enabled: true 
         footer: true 
         sidebar: true 
