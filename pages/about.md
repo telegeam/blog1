@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-description: 免费节点,free,node,V2ray,Clash
-keywords: 高速免费节点,SSR,V2ray,Clash,Shadowrocket,订阅链接
+description: 免费节点
+keywords:,SSR,V2ray,Clash,Shadowrocket,订阅链接
 comments: true
 menu: 关于
 permalink: /about/
