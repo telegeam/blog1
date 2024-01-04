@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: 免费节点
-keywords:,SSR,V2ray,Clash,Shadowrocket,订阅链接
+keywords:SSR,V2ray,Clash,Shadowrocket,订阅链接
 comments: true
 menu: 关于
 permalink: /about/
