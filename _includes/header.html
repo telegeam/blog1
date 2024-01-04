@@ -51,10 +51,10 @@
     <meta name="keywords" content="{{ keywords | strip_html | strip_newlines}}">
     <meta name="og:keywords" content="{{ keywords | strip_html | strip_newlines}}">
       {% if page.excerpt %}
-    <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines}}">
+    <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines}}">  
     <meta name="og:description" content="{{ page.excerpt | strip_html | strip_newlines}}">
       {% else if page.description %}
-    <meta name="description" content="{{ page.description | strip_html | strip_newlines}}">
+  <!---  <meta name="description" content="{{ page.description | strip_html | strip_newlines}}">  --->
     <meta name="og:description" content="{{ page.description | strip_html | strip_newlines}}">
       {% else if content %}
     <meta name="description" content="{{ content | strip_html | strip_newlines | truncatewords: 100 }}">
