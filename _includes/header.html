@@ -40,15 +40,9 @@
     <link rel="canonical" href="{{ page.url | prepend: site.url }}">
     <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.url }}{{ site.subscribe_rss }}">
     <link rel="shortcut icon" href="{{ assets_base_url }}/favicon.ico">
-	 {% if page.title %}
-    <meta property="og:title" content="{{ page.title }}">
-      {% if page.description %}
-      {% assign description = page.description %}
-      {% else %}
-      {% assign description = site.description %}
-      {% endif %}
-	 <!---<meta name="description" content="每日更新,clash节点,v2ray节点,SSR,Shadowrocket,免费节点"> --->
-	<meta name="description" content="{{ description | strip_html | strip_newlines}}">
+	
+	<meta name="description" content="每日更新,clash节点,v2ray节点,SSR,Shadowrocket,免费节点"> 
+	
 	<meta name="og:description" content="{{ page.description | strip_html | strip_newlines}}">
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}">
