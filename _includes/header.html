@@ -49,7 +49,16 @@
       {% endif %}
     <meta name="keywords" content="{{ keywords | strip_html | strip_newlines}}">
     <meta name="og:keywords" content="{{ keywords | strip_html | strip_newlines}}">
-	<meta name="description" content="每日更新,clash节点,v2ray节点,SSR,Shadowrocket,免费节点> 
+	 {% if page.title %}
+    <meta property="og:title" content="{{ page.title }}">
+      {% if page.description %}
+      {% assign description = page.description %}
+      {% else %}
+      {% assign description = site.description %}
+      {% endif %}
+	 <!---<meta name="description" content="每日更新,clash节点,v2ray节点,SSR,Shadowrocket,免费节点"> --->
+	<meta name="description" content="{{ description | strip_html | strip_newlines}}">
+	<meta name="og:description" content="{{ page.description | strip_html | strip_newlines}}">
  <!---      {% if page.excerpt %}
    <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines}}">  
     <meta name="og:description" content="{{ page.excerpt | strip_html | strip_newlines}}">
