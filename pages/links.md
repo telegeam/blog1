@@ -17,16 +17,6 @@ permalink: /links/
   {% endif %}
 {% endfor %}
 </ul>
-
-> 友情链接
-
-<ul>
-{% for link in site.data.links %}
-  {% if link.src == 'www' %}
-  <li><a href="{{ link.url }}" target="_blank">{{ link.name}}</a></li>
-  {% endif %}
-{% endfor %}
-</ul>
 # 【热门推荐】5000+ 优质 Telegram 群组、频道和机器人，精心筛选，助您迅速找到最佳选择！
 
 ##  高速机场推荐1
@@ -509,7 +499,15 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 本项目的所有内容均来源于网络，仅供学习和研究使用。项目中列出的频道/群组/机器人等可能包含部分敏感内容。请您自觉遵守当地的法律法规。本项目不对使用者的行为承担任何责任。使用者应自行承担使用本项目所产生的一切后果。如有内容侵犯了您的权益，请联系我们删除相关内容。
 
 
+> 友情链接
 
-## Star History
+<ul>
+{% for link in site.data.links %}
+  {% if link.src == 'www' %}
+  <li><a href="{{ link.url }}" target="_blank">{{ link.name}}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=jackhawks/rectg&type=Date)](https://star-history.com/#jackhawks/rectg&Date)
+
+
