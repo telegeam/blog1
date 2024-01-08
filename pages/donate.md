@@ -35,4 +35,4 @@ TRC20网络地址：TVoG1TzpsipVPBCdym6cCQbecqaHfgecmg
 
 ## 支付宝 / Alipay
 
-<img style="width:256px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/receipt-code-alipay.jpeg" alt="alipay receipt code" />
+<img style="width:256px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/receipt-code-alipay.jpeg" alt="alipay receipt code" />--->
