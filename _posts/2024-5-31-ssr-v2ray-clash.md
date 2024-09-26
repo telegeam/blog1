@@ -21,12 +21,12 @@ clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、cl
 
 ### 高速机场推荐2 FCCloud
 
-👉高速机场推荐2  [【FCCloud】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
+👉高速机场推荐2  [【FCCloud】](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
 解锁奈飞迪士尼
 
-👉注册地址： [【FCCloud官网（点击注册）】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
+👉注册地址： [【FCCloud官网（点击注册）】](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
 
 ### 高速机场推荐3 轻云
 
@@ -39,7 +39,7 @@ clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、cl
 
 ### 高速机场推荐4 EFCloud
 
-高速机场推荐4[【EFCloud】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
+高速机场推荐4[【EFCloud】](https://inv.easyfastcloud.com/#/register?code=zZbUVKvu)
 
 ### 免费节点 每日更新网址👇👇👇👇👇
 
