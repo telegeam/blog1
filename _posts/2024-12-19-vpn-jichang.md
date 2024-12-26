@@ -32,7 +32,19 @@ topmost: true
 
 ## [简介](#简介)
 
+*   *    *
+### [EF](#ef)
 
+注册链接：[https://www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW)
+
+
+试用：无
+
+便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
+
+最大的缺点就是太便宜了
+
+*   *    *
 ### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
 
 注册链接：[t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs)
@@ -54,7 +66,7 @@ topmost: true
 
 试用：
 
-最便宜的订阅有5元 5000G/月。
+最便宜的订阅有9.9元 80G/月。
 
 全球20+国家和地区的节点 包含100+节点；更高级的流媒体解锁 多地原生ip；速度更快更稳定 适合主力使用；限制5个客户端同时在线
 
@@ -182,16 +194,6 @@ topmost: true
 
 * * *
 
-### [EF](#ef)
-
-注册链接：[https://www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW)
-
-
-试用：无
-
-便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
-
-最大的缺点就是太便宜了
 
 
 ###  高速机场推荐1
