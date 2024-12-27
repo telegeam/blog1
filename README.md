@@ -29,9 +29,9 @@
 
 最大的缺点就是太便宜了
 
-### [稳连云](https://wl.awcmam.com/#/register?code=tsTYVbC0)
+### [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
 
-注册链接：[wl.awcmam.com](https://wl.awcmam.com/#/register?code=tsTYVbC0)
+注册链接：[wl.awcmam.com](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
 
 试用：
 
