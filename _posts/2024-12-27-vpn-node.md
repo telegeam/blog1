@@ -38,9 +38,9 @@ clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、cl
 
 最大的缺点就是太便宜了
 
-### [稳连云](https://wl.awcmam.com/#/register?code=tsTYVbC0)
+### [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
 
-注册链接：[wl.awcmam.com](https://wl.awcmam.com/#/register?code=tsTYVbC0)
+注册链接：[wl.awcmam.com](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
 
 
 最便宜的订阅有5元 1000G/月。
