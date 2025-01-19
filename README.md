@@ -55,19 +55,6 @@
 * * *
 
 
-### [可乐云](https://eded.keley02.top/#/login?code=TRbo3nMf)
-
-注册链接：[eded.keley02.top](https://eded.keley02.top/#/login?code=TRbo3nMf)
-
-
-试用：
-
-最便宜的订阅有25元 120G/月。
-
-全球10个国家；99.99% SLA保证；1Gbps带宽保证；1个设备终端在线；IEPL 国际专线
-
-* * *
-
 ### [spcloud](https://invite.spcloud.vip/#/register?code=vS77JVkP)
 
 注册链接：[spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP)
