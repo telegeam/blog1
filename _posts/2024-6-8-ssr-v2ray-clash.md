@@ -39,7 +39,7 @@ clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、cl
 
 ### 高速机场推荐4 EFCloud
 
-高速机场推荐4[【EFCloud】](https://inv.easyfastcloud.com/#/register?code=zZbUVKvu)
+高速机场推荐4[【EFCloud】](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 ### 免费节点 每日更新网址👇👇👇👇👇
 
