@@ -4,9 +4,9 @@
 
 [点击进入TG账号商店 ](https://shop.nodeshare.xyz/)
 
-### [EF](https://www.efcloud1.com/#/register?code=Rg3jlrsW)
+### [EF](https://kkjiasu.top/#/register?code=lhGhQflc)
 
-注册链接：[https://www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW)
+注册链接：[https://www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 
 试用：无
@@ -81,7 +81,7 @@
 * * *
 ### 高速机场推荐4 EFCloud
 
-高速机场推荐4[【EFCloud】](https://www.easyfastcloud.com/#/register?code=zZbUVKvu)
+高速机场推荐4[【EFCloud】](https://kkjiasu.top/#/register?code=lhGhQflc)
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
 解锁奈飞迪士尼
