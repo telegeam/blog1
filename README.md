@@ -4,9 +4,9 @@
 
 [点击进入TG账号商店 ](https://shop.nodeshare.xyz/)
 
-### [EF](https://kkjiasu.top/#/register?code=lhGhQflc)
+### [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc)
 
-注册链接：[https://www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc)
+注册链接：[KK加速](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 
 试用：无
@@ -66,8 +66,33 @@
 
 * * *
 
+### [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
 
-### [spcloud](https://invite.spcloud.vip/#/register?code=vS77JVkP)
+注册链接：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+
+
+试用：1天 2G
+
+最便宜的订阅有10元 100G/月。
+
+解锁主流流媒体和ChatGPT，IEPL接口线路和普通线路一样的价格，机场稳定，几乎全部节点全天候可用。购买之前记得领一下首页的优惠券再下单。
+
+* * *
+
+
+### [冲上云霄](#冲上云霄)
+
+注册链接：[cpdd.one](https://cpdd.one/?r=32083)
+
+试用：1天 1G
+
+最便宜的订阅有5元 150G/30天。
+
+这是目前来看最便宜的机场，用户也比较多，节点质量过关。缺点是购买稍微麻烦一点，需要购买充值码进行充值后才能购买套餐。
+
+* * *
+
+<!---### [spcloud](https://invite.spcloud.vip/#/register?code=vS77JVkP)
 
 注册链接：[spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP)
 
@@ -76,13 +101,25 @@
 
 最便宜的订阅有10元 100G/月。
 
+最高速率 1000Mbps , 全天不限速；IEFL专线超低延迟隐私数据传输；解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台；全球 50+ 国家/地区支持；全平台支持，不限制设备数量---->
+
+
+### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
+
+注册链接：[西游云](https://goudan.site/#/register?code=LQzUg4EU)
+
+
+
+最便宜的订阅有10元 120G/月。
+
 最高速率 1000Mbps , 全天不限速；IEFL专线超低延迟隐私数据传输；解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台；全球 50+ 国家/地区支持；全平台支持，不限制设备数量
 
-* * *
-### 高速机场推荐4 EFCloud
 
-高速机场推荐4[【EFCloud】](https://kkjiasu.top/#/register?code=lhGhQflc)
-原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
+* * *
+### 高速机场推荐4 KK加速
+
+高速机场推荐4[【KK加速】](https://kkjiasu.top/#/register?code=lhGhQflc)
+8元200G,原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
 解锁奈飞迪士尼
 
@@ -98,14 +135,14 @@ ChatGPT解锁 - 无障碍访问ChatGPT，拓展您的知识和娱乐体验。
 👉[[点击注册]](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
 
 
-### 高速机场推荐2 FCCloud
+<!---### 高速机场推荐2 FCCloud
 
 👉高速机场推荐2  [【FCCloud】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
 解锁奈飞迪士尼
 
-👉注册地址： [【FCCloud官网（点击注册）】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)
+👉注册地址： [【FCCloud官网（点击注册）】](https://www.fastconnectcloud1.com/#/register?code=qGNvJ8Oy)---->
 
 ### 高速机场推荐1 快猫
 高速机场推荐1 [【快猫】](https://kuaimao.io/#/register?code=9xg6G0AV)
