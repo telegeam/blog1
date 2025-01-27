@@ -19,7 +19,7 @@
 
 ### [冲上云霄](#冲上云霄)
 
-注册链接：[cpdd.one](https://cpdd.one/?r=32083)
+注册链接：[点击进入](https://cpdd.one/?r=32083)
 
 试用：1天 1G
 
@@ -31,7 +31,7 @@
 
 ### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
 
-注册链接：[t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+注册链接：[点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs)
 
 试用：
 
@@ -43,7 +43,7 @@
 
 ### [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
 
-注册链接：[wl.awcmam.com](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
+注册链接：[点击进入](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
 
 试用：
 
@@ -55,7 +55,7 @@
 
 ### [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d)
 
-注册链接：[dginv.click](https://www.dginv.click/#/register?code=yi5aid0d)
+注册链接：[点击进入](https://www.dginv.click/#/register?code=yi5aid0d)
 
 
 试用：
@@ -68,7 +68,7 @@
 
 ### [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
 
-注册链接：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+注册链接：[点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
 
 
 试用：1天 2G
@@ -82,7 +82,7 @@
 
 ### [冲上云霄](#冲上云霄)
 
-注册链接：[cpdd.one](https://cpdd.one/?r=32083)
+注册链接：[点击进入](https://cpdd.one/?r=32083)
 
 试用：1天 1G
 
@@ -106,7 +106,7 @@
 
 ### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
 
-注册链接：[西游云](https://goudan.site/#/register?code=LQzUg4EU)
+注册链接：[点击进入](https://goudan.site/#/register?code=LQzUg4EU)
 
 
 
