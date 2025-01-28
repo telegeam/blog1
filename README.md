@@ -14,9 +14,33 @@
 便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
 最大的缺点就是太便宜了
+### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
+
+注册链接：[点击进入](https://goudan.site/#/register?code=LQzUg4EU)
+
+
+
+最便宜的订阅有10元 120G/月。
+
+最高速率 1000Mbps , 全天不限速；IEFL专线超低延迟隐私数据传输；解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台；全球 50+ 国家/地区支持；全平台支持，不限制设备数量
+
 
 * * *
 
+* * *
+### [冰灵加速器](https://sulian.info/#/register?code=3R5DYYrL)
+
+注册链接：[点击进入](https://sulian.info/#/register?code=3R5DYYrL)
+
+试用：
+
+最便宜的订阅有5.9元 39G/月。
+
+便宜是真便宜，8.9 元钱买1个月，每个月 129 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
+
+最大的缺点就是太便宜了
+
+* * *
 ### [冲上云霄](#冲上云霄)
 
 注册链接：[点击进入](https://cpdd.one/?r=32083)
