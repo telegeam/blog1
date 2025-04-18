@@ -4,16 +4,7 @@
 
 [点击进入TG账号商店 ](https://shop.nodeshare.xyz/)
 
-### [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc)
 
-注册链接：[KK加速](https://kkjiasu.top/#/register?code=lhGhQflc)
-
-
-试用：无
-
-便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
-
-最大的缺点就是太便宜了
 ### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
 
 注册链接：[点击进入](https://goudan.site/#/register?code=LQzUg4EU)
