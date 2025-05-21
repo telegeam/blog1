@@ -8,11 +8,11 @@ topmost: true
 ---
 
 
-##  [TG账号商店 ](https://shop.https://www.nodeshare.xyz/) ---专住于海外社交推特账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
+##  [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交推特账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
 
-[点击进入TG账号商店 ](https://shop.https://www.nodeshare.xyz/)
+[点击进入TG账号商店 ](https://shop.nodeshare.xyz/)
 
-2024-12-19
+2025-5-21
 
 2024 最好用且便宜的机场推荐，每个机场至少由我试用一周后才决定是否推荐。 有较为严格的审核标准，让大家伙儿们放心使用。
 
@@ -32,19 +32,7 @@ topmost: true
 
 ## [简介](#简介)
 
-*   *    *
-### [EF](#ef)
 
-注册链接：[https://www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc)
-
-
-试用：无
-
-便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
-
-最大的缺点就是太便宜了
-
-*   *    *
 ### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
 
 注册链接：[t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs)
@@ -86,18 +74,6 @@ topmost: true
 * * *
 
 
-### [可乐云](https://eded.keley02.top/#/login?code=TRbo3nMf)
-
-注册链接：[eded.keley02.top](https://eded.keley02.top/#/login?code=TRbo3nMf)
-
-
-试用：
-
-最便宜的订阅有25元 120G/月。
-
-全球10个国家；99.99% SLA保证；1Gbps带宽保证；1个设备终端在线；IEPL 国际专线
-
-* * *
 
 ### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
 
@@ -153,13 +129,13 @@ topmost: true
 
 ### 高速机场推荐4
 
-[【快猫】](https://kkjiasu.top/#/register?code=lhGhQflc)
+[【快猫】](https://kuaimao.io/#/register?code=9xg6G0AV)
 
 季付送小火箭，流量多，优惠多
 
 而且不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
-注册地址：[【快猫官网（点击注册）】](https://kkjiasu.top/#/register?code=lhGhQflc)
+注册地址：[【快猫官网（点击注册）】](https://kuaimao.io/#/register?code=9xg6G0AV)
 
 ###  高速机场推荐5
 
