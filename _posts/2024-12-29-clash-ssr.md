@@ -16,9 +16,9 @@ clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、cl
 
 ## 高速机机场推荐:
 
-### [EF](https://kkjiasu.top/#/register?code=lhGhQflc)
+### [EF](https://tg-nav.github.io/nodeshare/)
 
-注册链接：[https://www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc)
+注册链接：[https://www.efcloud1.com](https://tg-nav.github.io/nodeshare/)
 
 
 便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
@@ -109,7 +109,7 @@ clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、cl
 * * *
 ### 高速机场推荐4 EFCloud
 
-高速机场推荐4[【EFCloud】](https://kkjiasu.top/#/register?code=lhGhQflc)
+高速机场推荐4[【EFCloud】](https://tg-nav.github.io/nodeshare/)
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
 解锁奈飞迪士尼
@@ -128,12 +128,12 @@ ChatGPT解锁 - 无障碍访问ChatGPT，拓展您的知识和娱乐体验。
 
 ### 高速机场推荐2 FCCloud
 
-👉高速机场推荐2  [【FCCloud】](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
+👉高速机场推荐2  [【FCCloud】](https://tg-nav.github.io/nodeshare/)
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
 解锁奈飞迪士尼
 
-👉注册地址： [【FCCloud官网（点击注册）】](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy)
+👉注册地址： [【FCCloud官网（点击注册）】](https://tg-nav.github.io/nodeshare/)
 
 ### 高速机场推荐1 快猫
 高速机场推荐1 [【快猫】](https://kuaimao.io/#/register?code=9xg6G0AV)
