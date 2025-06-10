@@ -8,17 +8,18 @@
 [点击进入TG账号商店 ](https://shop.nodeshare.xyz/)
 
 
-### [冲上云霄](#冲上云霄)
+### [冲上云霄](https://cpdd.one/?r=42354)
 
-注册链接：[点击进入](https://cpdd.one/?r=32083)
+点击注册：[点击进入](https://cpdd.one/?r=42354)
 
 试用：1天 1G
 
-最便宜的订阅有5元 150G/30天。
+最便宜的订阅有10元 300G/30天。
 
-这是目前来看最便宜的机场，用户也比较多，节点质量过关。缺点是购买稍微麻烦一点，需要购买充值码进行充值后才能购买套餐。
+这是目前来看最便宜的机场，用户也比较多，节点质量过关。不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
 * * *
+
 
 ### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
 
@@ -99,17 +100,18 @@
 * * *
 
 
-### [冲上云霄](#冲上云霄)
+### [冲上云霄](https://cpdd.one/?r=42354)
 
-注册链接：[点击进入](https://cpdd.one/?r=32083)
+点击注册：[点击进入](https://cpdd.one/?r=42354)
 
 试用：1天 1G
 
-最便宜的订阅有5元 150G/30天。
+最便宜的订阅有10元 300G/30天。
 
-这是目前来看最便宜的机场，用户也比较多，节点质量过关。缺点是购买稍微麻烦一点，需要购买充值码进行充值后才能购买套餐。
+这是目前来看最便宜的机场，用户也比较多，节点质量过关。不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
 * * *
+
 
 <!---### [spcloud](https://invite.spcloud.vip/#/register?code=vS77JVkP)
 
@@ -135,12 +137,6 @@
 
 
 * * *
-### 高速机场推荐4 KK加速
-
-高速机场推荐4[【KK加速】](https://kkjiasu.top/#/register?code=lhGhQflc)
-8元200G,原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
-
-解锁奈飞迪士尼
 
 ### 高速机场推荐5 火烧云
 
