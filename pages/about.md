@@ -10,9 +10,9 @@ permalink: /about/
 关注[「TG频道」](https://t.me/+Nz3-ybO4nwMzMDU1) 可第一时间获得节点更新消息，
 
 
-### [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc)
+### [KK加速](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[KK加速](https://kkjiasu.top/#/register?code=lhGhQflc)
+注册链接：[KK加速](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 
 试用：无
@@ -20,9 +20,9 @@ permalink: /about/
 便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
 最大的缺点就是太便宜了
-### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
+### [西游云](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[点击进入](https://goudan.site/#/register?code=LQzUg4EU)
+注册链接：[点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 
 
@@ -59,9 +59,9 @@ permalink: /about/
 
 * * *
 
-### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+### [星辰VPN](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+注册链接：[点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 试用：
 
@@ -134,9 +134,9 @@ permalink: /about/
 最高速率 1000Mbps , 全天不限速；IEFL专线超低延迟隐私数据传输；解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台；全球 50+ 国家/地区支持；全平台支持，不限制设备数量---->
 
 
-### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
+### [西游云](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[点击进入](https://goudan.site/#/register?code=LQzUg4EU)
+注册链接：[点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 
 
@@ -148,7 +148,7 @@ permalink: /about/
 * * *
 ### 高速机场推荐4 KK加速
 
-高速机场推荐4[【KK加速】](https://kkjiasu.top/#/register?code=lhGhQflc)
+高速机场推荐4[【KK加速】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 8元200G,原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
 解锁奈飞迪士尼
