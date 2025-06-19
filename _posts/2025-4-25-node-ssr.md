@@ -46,9 +46,9 @@ clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、cl
 
 * * *
 
-### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+### [星辰VPN](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+注册链接：[点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 
 最便宜的订阅有6元 60G/月。
@@ -96,9 +96,9 @@ clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、cl
 
 * * *
 
-### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
+### [西游云](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[点击进入](https://goudan.site/#/register?code=LQzUg4EU)
+注册链接：[点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 
 

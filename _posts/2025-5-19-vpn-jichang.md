@@ -33,9 +33,9 @@ topmost: true
 ## [简介](#简介)
 
 
-### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+### [星辰VPN](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+注册链接：[t.xcvpn.us](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 试用：
 
@@ -75,9 +75,9 @@ topmost: true
 
 
 
-### [西游云](https://goudan.site/#/register?code=LQzUg4EU)
+### [西游云](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[goudan.site](https://goudan.site/#/register?code=LQzUg4EU)
+注册链接：[goudan.site](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 
 试用：
