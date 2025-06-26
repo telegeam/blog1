@@ -128,7 +128,7 @@ plugins:
     - jekyll-sitemap
     - jekyll-feed
     - jemoji
-    -incremental
+    
 #     - jekyll-mentions
 collections:
     wiki:
