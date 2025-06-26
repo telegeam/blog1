@@ -99,9 +99,9 @@
 
 * * *
 
-### [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+### [flybit](https://flybit.my/#/register?code=iV0dLWfT)
 
-注册链接：[点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+注册链接：[点击进入](https://flybit.my/#/register?code=iV0dLWfT)
 
 
 试用：1天 2G
@@ -153,14 +153,14 @@
 
 ### 高速机场推荐5 火烧云
 
-高速机场推荐5[【火烧云】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
+高速机场推荐5[【火烧云】](https://cn1.huoshaoyun.pro/#/register?code=iYoHYy6g)
 
 奈飞、迪士尼等流媒体解锁 - 畅享国际热门流媒体内容，不受地域限制。
 
 💡
 ChatGPT解锁 - 无障碍访问ChatGPT，拓展您的知识和娱乐体验。
 
-👉[[点击注册]](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
+👉[[点击注册]](https://cn1.huoshaoyun.pro/#/register?code=iYoHYy6g)
 
 
 <!---### 高速机场推荐2 FCCloud
