@@ -29,9 +29,9 @@ clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、cl
 
 * * *
 
-### [flybit](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+### [flybit](https://flybit.my/#/register?code=iV0dLWfT)
 
-注册链接：[点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT)
+注册链接：[点击进入](https://flybit.my/#/register?code=iV0dLWfT)
 
 
 试用：1天 2G
