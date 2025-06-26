@@ -31,7 +31,7 @@ components:
         start_date: 2023-12-12
     # My Popular Repositories
     side_bar_repo:
-        enabled: true
+        enabled: false
         limit: 5
     # 文章字数统计
     word_count:
