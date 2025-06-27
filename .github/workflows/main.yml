@@ -20,19 +20,20 @@ jobs:
         run: |
           # 获取当前日期，格式为 YYYY-MM-DD
           current_date=$(date +'%Y-%m-%d')
-          
-          # 使用 sed 替换 README.md 中的日期
-          # 如果没有创建或修改日期，手动添加这些行
+
+          # 检查 README.md 是否包含创建和修改日期
           if ! grep -q "created:" README.md; then
-            echo "created: $current_date" >> README.md
+            echo "created: $current_date" | cat - README.md > temp && mv temp README.md
           else
-            sed -i "s/created: .*/created: $current_date/" README.md
+            # 将日期更新放到文件顶部
+            sed -i "1s/^/created: $current_date\n/" README.md
           fi
 
           if ! grep -q "modified:" README.md; then
-            echo "modified: $current_date" >> README.md
+            echo "modified: $current_date" | cat - README.md > temp && mv temp README.md
           else
-            sed -i "s/modified: .*/modified: $current_date/" README.md
+            # 将日期更新放到文件顶部
+            sed -i "1s/^/modified: $current_date\n/" README.md
           fi
 
       - name: Commit and push changes
