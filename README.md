@@ -1,12 +1,4 @@
-modified: 2025-06-28
-created: 2025-06-28
-modified: 2025-06-27
-created: 2025-06-27
-modified: 2025-06-27
-created: 2025-06-27
-
-2025-6-26
-
+## 更新时间
 
 #### 关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！
 
