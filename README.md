@@ -73,9 +73,9 @@
 
 * * *
 
-### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+### [星辰VPN](https://c.xcvpn.me/#/register?code=tLBWwhPs)
 
-注册链接：[点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+注册链接：[点击进入](https://c.xcvpn.me/#/register?code=tLBWwhPs)
 
 试用：
 
