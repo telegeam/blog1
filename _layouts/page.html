@@ -6,14 +6,12 @@ layout: default
 {% if site.cdn.jsdelivr.enabled %}
 {% assign assets_base_url = "https://fastly.jsdelivr.net/gh/" | append: site.repository | append: '@master' %}
 {% endif %}
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1530351503997410"
-     crossorigin="anonymous"></script>
 <section class="collection-head small geopattern" data-pattern-id="{{ page.title | truncate: 15}}">
     <div class="container">
       <div class="columns">
         <div class="column two-thirds">
           <div class="collection-title">
-            <h2 class="collection-header">{{ page.title }}</h2>
+            <h1 class="collection-header">{{ page.title }}</h1>
             {% if page.subtitle %}
             <div class="collection-info">
               <span class="meta-info">
@@ -45,7 +43,7 @@ layout: default
             </div>
             <div class="column one-third">
                 {% include sidebar-search.html %}
-             <!--   {% include sidebar-categories-cloud.html %}-->
+                {% include sidebar-categories-cloud.html %}
                 {% include sidebar-ad.html %}
                 {% include sidebar-popular-repo.html %}
             </div>
