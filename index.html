@@ -1,9 +1,56 @@
 ---
 layout: default
 class: home
-css: ['pages/index.css']
 comments: false
 ---
+
+<style>
+.home .banner,
+.home .site-header,
+.home .banner .collection-head,
+.home .banner .collection-head a,
+.home .site-header h1 a,
+.home .site-header .site-header-nav-item:hover {
+    color: {{ site.index.banner.color | default: '#fff' }};
+}
+
+.home .site-header .site-header-nav-item {
+    color: {{ site.index.banner.nav-color | default: 'rgba(255, 255, 255, .5)' }};
+}
+
+.home .banner,
+.home .site-header {
+    background-color: {{ site.index.banner.background-color | default: '#4183c4'}};
+}
+
+{% if site.index.banner.background-image %}
+.home .banner {
+    background-image: url("{{ site.index.banner.background-image }}");
+    background-repeat: {{ site.index.banner.background-repeat | default: 'no-repeat' }};
+    background-size: {{ site.index.banner.background-size | default: 'cover' }};
+}
+{% endif %}
+
+.home .banner .collection-head {
+    background: 0 0;
+    box-shadow: none;
+    -webkit-box-shadow: none
+}
+
+.home .site-header {
+    border-bottom: none
+}
+
+@media (max-width:50em) {
+  .home .collapsed .icon-bar {
+    background-color: white;
+  }
+
+  .home .collection-head .collection-header {
+    font-size: 1.25em;
+  }
+}
+</style>
 
 {% assign assets_base_url = site.url %}
 {% if site.cdn.jsdelivr.enabled %}
@@ -15,7 +62,7 @@ comments: false
         <div class="columns">
           <div class="column two-thirds">
             <div class="collection-title">
-              <h2 class="collection-header" id="sub-title"><span>{{ site.subtitle }}</span></h2>
+              <h1 class="collection-header" id="sub-title"><span>{{ site.subtitle }}</span></h1>
               <div class="collection-info">
                 <span class="meta-info mobile-hidden">
                   <span class="octicon octicon-location"></span>
@@ -29,7 +76,7 @@ comments: false
                 {% endif %}
                 <span class="meta-info">
                   <span class="octicon octicon-mark-github"></span>
-                 <!-- <a href="https://github.com/{{ site.github_username }}" target="_blank">{{ site.github_username }}</a>-->
+                  <a href="https://github.com/{{ site.github_username }}" target="_blank">{{ site.github_username }}</a>
                 </span>
               </div>
             </div>
@@ -101,7 +148,7 @@ comments: false
         </div>
         <div class="column one-third">
             {% include sidebar-search.html %}
-           <!-- {% include sidebar-categories-cloud.html %}-->
+            {% include sidebar-categories-cloud.html %}
             {% include sidebar-ad.html %}
             {% include sidebar-popular-repo.html %}
         </div>
