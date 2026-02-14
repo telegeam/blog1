@@ -49,9 +49,9 @@ topmost: false
 * * *
 
 
-### [冲上云霄](https://cpdd.one/?r=42354)
+### [冲上云霄](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
 
-点击注册：[点击进入](https://cpdd.one/?r=42354)
+点击注册：[点击进入](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
 
 试用：1天 1G
 
