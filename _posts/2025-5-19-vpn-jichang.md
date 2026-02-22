@@ -1,16 +1,16 @@
 ---
 layout: post
-title: 2025年便宜好用的翻墙机场推荐评测长期更新
+title: 2026年便宜好用的翻墙机场推荐评测长期更新
 tags: [Clash,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,v2ray,节点,苹果,小火箭,订阅链,高速免费节点,V2ray,clash,ss,ssr,trojan,vmess,免费节点,翻墙必备,免费节点,科学上网]
-description:  2025年clash节点,v2ray节点,每日更新,SSR,Shadowrocket,免费节点,高速机场推荐
+description:  2026年clash节点,v2ray节点,每日更新,SSR,Shadowrocket,免费节点,高速机场推荐
 keywords: Clash,v2ray,iOS,Quantumult,QuantumultX,Shadowrocket,SSR,节点,苹果,小火箭,订阅链接,高速免费节点,V2ray,clash,ss,ssr,trojan,vmess,翻墙必备,免费节点,科学上网, 
 topmost: true
 ---
 
 
-##  [TG账号商店 ](https://shop.nodeshare.xyz/) ---专住于海外社交推特账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
+##  [果书账号商店 ](http://goso002.com?from=32977) ---专住于海外社交推特账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的批发零售
 
-[点击进入TG账号商店 ](https://shop.nodeshare.xyz/)
+[点击进入果书账号商店 ](http://goso002.com?from=32977)
 
 2025-5-21
 
@@ -35,7 +35,7 @@ topmost: true
 
 ### [星辰VPN](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[c.xcvpn.me](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+注册链接：[点击注册](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 试用：
 
@@ -49,7 +49,7 @@ topmost: true
 
 ### [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
 
-注册链接：[wl.awcmam.com](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
+注册链接：[点击注册](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
 
 试用：
 
@@ -62,7 +62,7 @@ topmost: true
 
 ### [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d)
 
-注册链接：[dginv.click](https://www.dginv.click/#/register?code=yi5aid0d)
+注册链接：[点击注册](https://www.dginv.click/#/register?code=yi5aid0d)
 
 
 试用：
@@ -77,7 +77,7 @@ topmost: true
 
 ### [西游云](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[goudan.site](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+注册链接：[点击注册](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 
 试用：
@@ -88,9 +88,9 @@ topmost: true
 
 * * *
 
-### [flybit](https://flybit.my/#/register?code=iV0dLWfT)
+### [flybit](https://flybit.VIP/#/register?code=iV0dLWfT)
 
-注册链接：[点击注册](https://flybit.my/#/register?code=iV0dLWfT)
+注册链接：[点击注册](https://flybit.vip/#/register?code=iV0dLWfT)
 
 
 试用：1天 2G
@@ -104,7 +104,7 @@ topmost: true
 
 ### [冲上云霄](#冲上云霄)
 
-注册链接：[cpdd.one](https://cpdd.one/?r=32083)
+注册链接：[点击注册](https://cpdd.one/?r=32083)
 
 试用：1天 1G
 
@@ -119,13 +119,6 @@ topmost: true
 
 ### 高速机场推荐3
 
-[【火烧云】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
-
-季付送小火箭，流量多，优惠多
-
-而且不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
-
-注册地址：[【火烧云官网（点击注册）】](https://huoshaoyun.pro/#/register?code=iYoHYy6g)
 
 ### 高速机场推荐4
 
