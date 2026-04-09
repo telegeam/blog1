@@ -104,7 +104,7 @@
 注册链接：[点击进入](https://flybit.my/#/register?code=iV0dLWfT)
 
 
-试用：1天 2G
+
 
 最便宜的订阅有10元 100G/月。
 
